@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gzx543097079.github.io/App-Privacy-Center/sitemap.xml
