@@ -10,6 +10,11 @@ Each app has an isolated directory under `apps/`:
 
 ```text
 apps/
+  chromatic-atelier/
+    index.html
+    privacy/index.html
+    ads/index.html
+    support/index.html
   nimblefive/
     index.html
     privacy/index.html
