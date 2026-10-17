@@ -26,4 +26,4 @@ To add an app, create `apps/<app-slug>/`, add its legal and support pages, add a
 
 Operator: gzx
 
-Contact: genngzhixiang1992@gmail.com
+Contact: gengzhixiang1992@gmail.com
